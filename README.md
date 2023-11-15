@@ -4,4 +4,6 @@
 
 > Capítulo 2. Aplicando el Álgebra Relacional.
 
+> Capítulo 7. Programación de Procedimientos Almacenados
+
 > Capítulo 8. Disparadores y Transacciones. 
